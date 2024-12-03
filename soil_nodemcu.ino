@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPLy2IFAm6-"
-#define BLYNK_DEVICE_NAME "Soil Moisture Measurement with auto pump on off"
-#define BLYNK_AUTH_TOKEN "QGngeotkluNE5H7_Oio9_xJWwy4eP_Bv"
+#define BLYNK_TEMPLATE_ID "*"
+#define BLYNK_DEVICE_NAME "*"
+#define BLYNK_AUTH_TOKEN "*"
 
 #define BLYNK_PRINT Serial
 #include <OneWire.h>
@@ -12,8 +12,8 @@
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "You're Hacked!";
-char pass[] = "hprog2*1050Ti";
+char ssid[] = "*";
+char pass[] = "*";
 
 #define DHTPIN 2
 #define DHTTYPE DHT11
