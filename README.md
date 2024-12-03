@@ -1,4 +1,4 @@
-# SmartIrrigation System using NodeMCU and Blynk
+# Smart Irrigation System using NodeMCU and Blynk
 
 This repository contains the code for a Soil Moisture Measurement System with automatic pump control using an ESP8266 and Blynk IoT platform. The system monitors soil moisture levels, temperature, and humidity in real-time and automatically controls a water pump based on predefined conditions. It also allows manual control of the pump and an LED indicator via the Blynk app.
 
